@@ -1,0 +1,15 @@
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\bin\Debug\net6.0\itzzaHomework.exe
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\bin\Debug\net6.0\itzzaHomework.deps.json
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\bin\Debug\net6.0\itzzaHomework.runtimeconfig.json
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\bin\Debug\net6.0\itzzaHomework.dll
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\bin\Debug\net6.0\ref\itzzaHomework.dll
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\bin\Debug\net6.0\itzzaHomework.pdb
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.csproj.AssemblyReference.cache
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.AssemblyInfoInputs.cache
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.AssemblyInfo.cs
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.csproj.CoreCompileInputs.cache
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.dll
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\ref\itzzaHomework.dll
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.pdb
+C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.genruntimeconfig.cache
