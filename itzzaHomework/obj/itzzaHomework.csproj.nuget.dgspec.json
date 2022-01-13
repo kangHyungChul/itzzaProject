@@ -1,37 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hb\\Documents\\itzzaProject\\itzzaHomework\\itzzaHomework.csproj": {}
+    "D:\\Users\\master\\Documents\\itzzaProject\\itzzaHomework\\itzzaHomework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hb\\Documents\\itzzaProject\\itzzaHomework\\itzzaHomework.csproj": {
+    "D:\\Users\\master\\Documents\\itzzaProject\\itzzaHomework\\itzzaHomework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hb\\Documents\\itzzaProject\\itzzaHomework\\itzzaHomework.csproj",
+        "projectUniqueName": "D:\\Users\\master\\Documents\\itzzaProject\\itzzaHomework\\itzzaHomework.csproj",
         "projectName": "itzzaHomework",
-        "projectPath": "C:\\Users\\hb\\Documents\\itzzaProject\\itzzaHomework\\itzzaHomework.csproj",
-        "packagesPath": "C:\\Users\\hb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hb\\Documents\\itzzaProject\\itzzaHomework\\obj\\",
+        "projectPath": "D:\\Users\\master\\Documents\\itzzaProject\\itzzaHomework\\itzzaHomework.csproj",
+        "packagesPath": "C:\\Users\\master\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\master\\Documents\\itzzaProject\\itzzaHomework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net60"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net60": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,13 +37,24 @@
         }
       },
       "frameworks": {
-        "net60": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

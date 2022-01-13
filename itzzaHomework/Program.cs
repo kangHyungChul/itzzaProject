@@ -9,7 +9,7 @@
             int total = 10;
             for (int i = 1; i <= total; i++) {
                 //형철님 바보
-
+                //한빈님  바보 *100
 
                 // 1~5회 시
                 if (i <= (total / 2)) {

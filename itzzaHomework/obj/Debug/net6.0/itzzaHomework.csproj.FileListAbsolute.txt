@@ -13,3 +13,11 @@ C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHo
 C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\ref\itzzaHomework.dll
 C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.pdb
 C:\Users\chul6\source\repos\itzzaHomework\itzzaHomework\obj\Debug\net6.0\itzzaHomework.genruntimeconfig.cache
+D:\Users\master\Documents\itzzaProject\itzzaHomework\obj\Debug\net6.0\itzzaHomework.csproj.AssemblyReference.cache
+D:\Users\master\Documents\itzzaProject\itzzaHomework\obj\Debug\net6.0\itzzaHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\master\Documents\itzzaProject\itzzaHomework\obj\Debug\net6.0\itzzaHomework.AssemblyInfoInputs.cache
+D:\Users\master\Documents\itzzaProject\itzzaHomework\obj\Debug\net6.0\itzzaHomework.AssemblyInfo.cs
+D:\Users\master\Documents\itzzaProject\itzzaHomework\obj\Debug\net6.0\itzzaHomework.csproj.CoreCompileInputs.cache
+D:\Users\master\Documents\itzzaProject\itzzaHomework\obj\Debug\net6.0\itzzaHomework.dll
+D:\Users\master\Documents\itzzaProject\itzzaHomework\obj\Debug\net6.0\ref\itzzaHomework.dll
+D:\Users\master\Documents\itzzaProject\itzzaHomework\obj\Debug\net6.0\itzzaHomework.pdb
